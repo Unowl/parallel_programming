@@ -12,8 +12,8 @@ in parallel_programming
 
 in MPI_p2p
 
-  MPI send recv with own topology
+  -MPI send recv with own topology
 
 in MPI_collective
 
-  MPI bcast
+  -MPI bcast
